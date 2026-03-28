@@ -88,9 +88,9 @@ We use:
 - Replaced components (if stated)
 
 ### ❌ Not Covered
-- Physical damage  
-- Water damage  
-- Electrical damage  
+-   //
+-  //
+- //
 - Unauthorized repair  
 
 > 🚫 Warranty is VOID if tampered by others.
